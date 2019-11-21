@@ -1,0 +1,12 @@
+{
+  "name": "mqtt-jwt",
+  "version": "1.0.0",
+  "description": "MQTT broker with JWT authentication",
+  "main": "broker.js",
+  "author": "David Horvath <horvath.david987@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "jsonwebtoken": "^8.5.1",
+    "mosca": "^2.8.3"
+  }
+}
