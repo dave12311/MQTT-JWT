@@ -6,7 +6,7 @@
   "author": "David Horvath <horvath.david987@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "mosca": "^2.8.3"
   }
 }
